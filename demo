@@ -1,0 +1,51 @@
+{
+    "##": "最简设置（由于没找到合适的使用特定版本软件的方式，因此这里不适用hash验证）。",
+    "version": "5.0",
+    "description": "火绒安全软件5.0（个人版）",
+    "homepage": "https://www.huorong.cn/person5.html",
+    "license": "Freeware",
+    "notes": "并不保证能够正确运行，如果强调正确性请谨慎",
+    "url": "https://www.huorong.cn/downloadv5.html?status=hrstat&src=19",
+      
+    "pre_install": "",
+    "installer": {
+        "script": ""
+    },
+    "post_install": [
+        "",
+        ""
+    ],
+    "uninstaller": {
+        "script": ""
+    },
+    "bin": "",
+    "env_add_path": [
+        "",
+        ""
+    ],
+    "persist": [
+        "",
+        ""
+    ],
+    "checkver": {
+        "url": "",
+        "regex": ""
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": ""
+            },
+            "32bit": {
+                "url": ""
+            },
+            "arm64": {
+                "url": ""
+            }
+        },
+        "hash": {
+            "url": "",
+            "regex": ""
+        }
+    }
+}
